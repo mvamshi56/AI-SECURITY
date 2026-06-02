@@ -1,0 +1,6 @@
+{
+  "name": "AI Security MCP Sandbox",
+  "description": "Interactive secure sandbox and playground for Model Context Protocol (MCP), featuring Zod validation, Prompt Injection filters, multi-role OAuth scopes, Human-in-the-Loop approvals, and live audit telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
